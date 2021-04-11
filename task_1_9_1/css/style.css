@@ -1,0 +1,42 @@
+body {
+    background-color: #f2f2f2;
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+}
+.btn-check:active+.btn-outline-success, .btn-check:checked+.btn-outline-success, .btn-outline-success.active, .btn-outline-success.dropdown-toggle.show, .btn-outline-success:active {
+    color: #fff;
+    background-color: #000000;
+    border-color: #000000;
+}
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #000000;
+    border-color: #000000;
+}
+.btn-outline-success {
+    color: #1f1f1f;
+    border-color: #1f1f1f;
+}
+.anime {
+    float: left;
+    width: 290px;
+    height: 250px;
+    margin-right: 13px;
+    margin-bottom: 5px;
+    padding: 10px 22px;
+    text-align: center;
+}
+.poster {
+    width: 256px;
+}
+.page-link {
+    margin: center;
+    color: #1f1f1f;
+    border-color: #1f1f1f;
+}
+.page-link:hover {
+    color: #fff;
+    background-color: #000000;
+    border-color: #000000;
+}
